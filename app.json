@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "CPA3",
+    "slug": "CPA3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
